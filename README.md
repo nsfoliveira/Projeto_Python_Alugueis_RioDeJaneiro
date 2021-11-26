@@ -8,10 +8,10 @@ Usando Python para analisar os dados de um dataset fictício dos alugueis do Rio
  
  
  ### Análise das Necessidades:
- 1. Análise dos imóveis mais caros:
- 1.1 Qual valor do m² por tipo de imóvel?
- 1.2 Por tipo de imóvel, onde se localizam os imóveis mais caros?
- 1.3 Por tipo de imóvel, comparando os imóveis mais caros de 3 bairros. O que os diferenciam?
+<b>Analisando os imóveis mais caros:</b>
+1. Qual valor do m² por tipo de imóvel?
+2. Por tipo de imóvel, onde se localizam os imóveis mais caros?
+3. Por tipo de imóvel, comparando os imóveis mais caros de 3 bairros. O que os diferenciam?
  
  ### Etapas:
  1. Explorando o dataset;
