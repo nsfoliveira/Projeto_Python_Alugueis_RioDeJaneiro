@@ -7,7 +7,7 @@ Usando Python para analisar os dados de um dataset fictício dos alugueis do Rio
  Este dataset faz parte do treinamento de Pandas da Alura e o objetivo desse projeto é expandir o conhecimento adquirido no treinamento para além das funções básicas, utilizando outros recursos e outras formas de explorar esse dataset e promover uma análise sobre os dados.
  
  ### Etapas:
- 1. Explorando o dataset;
+ 1. Extraindo e Explorando o dataset;
  2. Limpeza e Tranformação;
  3. Análise Exploratória após tratamento;
  4. Apresentação dos Resultados;
