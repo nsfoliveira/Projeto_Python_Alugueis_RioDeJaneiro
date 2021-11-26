@@ -9,7 +9,7 @@ Usando Python para analisar os dados de um dataset fictício dos alugueis do Rio
  ### Etapas:
  1. Extraindo e Explorando o dataset;
  2. Limpeza e Tranformação;
- 3. Análise Exploratória após tratamento;
+ 3. Análise após tratamento;
  4. Apresentação dos Resultados;
  5. Conclusão
  
