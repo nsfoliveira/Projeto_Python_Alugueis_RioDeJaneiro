@@ -14,15 +14,15 @@ Usando Python para analisar os dados de um dataset fictício dos alugueis do Rio
  5. Conclusão
  
  ### Análise das Necessidades:
-<b>Analisando os imóveis mais caros:</b>
-1. Qual valor do m² por tipo de imóvel?
-2. Por tipo de imóvel, onde se localizam os imóveis mais caros?
-3. Por tipo de imóvel, comparando os imóveis mais caros de 3 bairros. O que os diferenciam?
+ 1. Qual a distribuição dos Imóveis?
+ 2. Top 10 aluguéis mais caros sem condomínio e sem iptu
+ 3. Média do valor do m² 
  
  ### Ferramentas utilizadas:
  1. Jupyter Lab;
  2. Python 3.8.8;
- 3. Bibliotecas: Pandas
+ 3. Bibliotecas: Pandas, Matplotlib, Seaborn
+ 4
  
  ### Glossário de funções específicas:
  <b>nulos(): </b> Função retorna um dataframe com a quantidade e percentual de dados nulos por variável;
