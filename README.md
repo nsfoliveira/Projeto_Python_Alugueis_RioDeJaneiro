@@ -21,5 +21,9 @@ Usando Python para analisar os dados de um dataset fictício dos alugueis do Rio
  
  ### Ferramentas utilizadas:
  1. Jupyter Lab;
- 2. Python 3;
+ 2. Python 3.8.8;
  3. Bibliotecas: Pandas
+ 
+ ### Glossário de funções específicas:
+ <b>nulos(): </b> Função retorna um dataframe com a quantidade e percentual de dados nulos por variável;
+ <b>ajuste_index() </b>: Função executa o ajuste do index e retorna o dataframe ajustado;
