@@ -16,7 +16,8 @@ Usando Python para analisar os dados de um dataset fictício dos alugueis do Rio
  ### Análise das Necessidades:
  1. Qual a distribuição dos Imóveis?
  2. Top 10 aluguéis mais caros sem condomínio e sem iptu
- 3. Média do valor do m² 
+ 3. Média do valor do m² dos imóveis do Top 10?
+ 
  
  ### Ferramentas utilizadas:
  1. Jupyter Lab;
