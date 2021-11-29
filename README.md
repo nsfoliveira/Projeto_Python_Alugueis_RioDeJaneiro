@@ -1,6 +1,6 @@
 <sub><b> Projeto em Contrução</b></sub>
 
-# Projeto 01: Análise dos Aluguéis do Rio de Janeiro com Python
+# Projeto: Análise dos Aluguéis do Rio de Janeiro com Python
 Usando Python para analisar os dados de um dataset fictício dos alugueis do Rio de Janeiro
  
  ## Objetivo:
